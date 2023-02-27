@@ -1,0 +1,15 @@
+package explicacion_java;
+
+public class explanation_java {
+
+	public static void main(String[] args) {
+		int numI = 2;
+		int numF = 12;
+		
+		while (numI >= numF) {
+			type type = (type) .nextElement();
+			
+		}
+	}
+
+}

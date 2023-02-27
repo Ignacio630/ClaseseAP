@@ -1,0 +1,9 @@
+package explicacion_java;
+
+public class explanation_java {
+
+	public static void main(String[] args) {
+		System.out.print(123*5);
+	}
+
+}
